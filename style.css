@@ -32,7 +32,7 @@ main {
 
 .blog-image {
     width: 100%;
-    height: auto;
+    height: 50%;
     border-radius: 8px;
     margin: 10px 0;
 }
